@@ -1,0 +1,91 @@
+vectorization,param,test size,f1,accuracy
+TF-IDF,Unigram - Bigram,10,0.66,0.66
+Count Vectorizer,unigram,10,0.61,0.61
+TF-IDF,Unigram,20,0.61,0.61
+TF-IDF,Unigram - Bigram,20,0.61,0.61
+CBOW,window 1,10,0.6,0.6
+CBOW,window 5,10,0.59,0.6
+CBOW,window 1,10,0.59,0.6
+Count Vectorizer,unigram,20,0.59,0.59
+CBOW,window 2,10,0.58,0.59
+Count Vectorizer,unigram,30,0.59,0.59
+Count Vectorizer,unigram - bigram,10,0.59,0.59
+CBOW,window 4,10,0.57,0.58
+CBOW,window 5,10,0.57,0.58
+CBOW,window 2,20,0.58,0.58
+TF-IDF,Unigram - Bigram,30,0.58,0.58
+Count Vectorizer,unigram - bigram,20,0.58,0.58
+TF-IDF,Unigram,10,0.58,0.58
+TF-IDF,Unigram,30,0.58,0.58
+CBOW,window 3,10,0.56,0.57
+TF-IDF,Unigram - Bigram,40,0.56,0.57
+TF-IDF,Unigram,50,0.57,0.57
+TF-IDF,Unigram,40,0.56,0.56
+TF-IDF,Unigram - Bigram,50,0.55,0.56
+CBOW,window 5,20,0.56,0.56
+Count Vectorizer,unigram,40,0.56,0.56
+CBOW,window 4,20,0.56,0.56
+CBOW,window 4,30,0.56,0.56
+CBOW,window 4,20,0.56,0.56
+CBOW,window 1,20,0.55,0.55
+CBOW,window 5,30,0.55,0.55
+Count Vectorizer,unigram,50,0.54,0.55
+CBOW,window 1,20,0.54,0.55
+TF-IDF,Bigram,10,0.54,0.55
+CBOW,window 3,20,0.55,0.55
+CBOW,window 5,40,0.55,0.55
+CBOW,window 5,30,0.55,0.55
+CBOW,window 5,20,0.55,0.55
+CBOW,window 4,40,0.55,0.55
+CBOW,window 4,10,0.55,0.55
+Count Vectorizer,unigram - bigram,30,0.54,0.55
+CBOW,window 2,50,0.54,0.54
+CBOW,window 2,40,0.54,0.54
+Count Vectorizer,bigram,10,0.52,0.54
+CBOW,window 3,40,0.54,0.54
+CBOW,window 3,30,0.54,0.54
+CBOW,window 3,20,0.54,0.54
+CBOW,window 5,50,0.54,0.54
+CBOW,window 3,30,0.53,0.53
+CBOW,window 4,50,0.53,0.53
+CBOW,window 3,10,0.53,0.53
+CBOW,window 2,20,0.53,0.53
+CBOW,window 2,30,0.53,0.53
+Count Vectorizer,unigram - bigram,50,0.52,0.53
+Count Vectorizer,bigram,20,0.51,0.52
+Count Vectorizer,unigram - bigram,40,0.51,0.52
+CBOW,window 2,30,0.52,0.52
+CBOW,window 4,30,0.53,0.52
+CBOW,window 3,50,0.52,0.52
+CBOW,window 1,30,0.52,0.52
+TF-IDF,Bigram,20,0.51,0.52
+CBOW,window 4,40,0.51,0.51
+CBOW,window 1,40,0.51,0.51
+Count Vectorizer,bigram,30,0.48,0.5
+Count Vectorizer,bigram,40,0.48,0.5
+CBOW,window 3,50,0.5,0.5
+CBOW,window 2,10,0.5,0.5
+CBOW,window 3,40,0.5,0.5
+CBOW,window 5,40,0.5,0.5
+CBOW,window 1,30,0.5,0.5
+CBOW,window 4,50,0.5,0.5
+TF-IDF,Bigram,30,0.48,0.5
+CBOW,window 5,50,0.49,0.49
+CBOW,window 1,50,0.49,0.49
+CBOW,window 1,40,0.49,0.49
+CBOW,window 1,50,0.49,0.49
+CBOW,window 2,40,0.49,0.49
+TF-IDF,Bigram,40,0.47,0.49
+CBOW,window 2,50,0.48,0.48
+Count Vectorizer,bigram,50,0.43,0.47
+TF-IDF,Bigram,50,0.42,0.46
+TF-IDF,Bigram,20,0.41,0.46
+TF-IDF,Bigram,10,0.4,0.45
+Count Vectorizer,trigram,20,0.39,0.45
+Count Vectorizer,trigram,10,0.39,0.45
+TF-IDF,Bigram,40,0.35,0.42
+TF-IDF,Bigram,30,0.36,0.42
+Count Vectorizer,trigram,40,0.35,0.41
+Count Vectorizer,trigram,30,0.35,0.41
+Count Vectorizer,trigram,50,0.33,0.4
+TF-IDF,Bigram,50,0.33,0.4

@@ -1,0 +1,19 @@
+vectorization,param,f1,accuracy
+CBOW,window 2,0.19,0.36
+CBOW,window 3,0.16,0.33
+Skip Gram,window 2,0.19,0.36
+Skip Gram,window 3,0.19,0.36
+Count Vectorizer,unigram,0.19,0.36
+Count Vectorizer,unigram - Bigram,0.19,0.36
+Count Vectorizer,Bigram,0.15,0.32
+Count Vectorizer,Trigram,0.19,0.36
+TF-IDF,unigram,0.16,0.33
+TF-IDF,unigram - Bigram,0.16,0.33
+TF-IDF,Trigram,0.16,0.33
+Count Vectorizer,Count Vectorizer,0.16,0.33
+Count Vectorizer,Count Vectorizer,0.15,0.32
+Count Vectorizer,Count Vectorizer,0.16,0.33
+Count Vectorizer,Count Vectorizer,0.16,0.33
+TF-IDF,TF-IDF,0.19,0.36
+TF-IDF,TF-IDF,0.16,0.33
+TF-IDF,TF-IDF,0.15,0.32
